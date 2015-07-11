@@ -1,0 +1,20 @@
+{% extends "iot/base.html" %}
+{% block content %}
+<h1>{{ device.name }}</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+
+{% if device.pins %}
+	<h2>Pins</h2>
+	<ul>
+	{% for p in device.pins %}
+		<li>{{p.name}}&nbsp;{{p.type}}</li>
+	{% endfor %}
+	</ul>
+{% endif %}
+
+{% if device.device_type %}
+	<p><strong>{{ device.name }}</strong> is a <strong>{{ device.device_type.name }}</strong> device</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "iot/base.html" %}
+{% block content %}
+<!-- links to admin/control -->
+{% if device_list %}
+	<div id="device_contain">
+		<h3>Devices</h3>
+		<ul>
+		{% for device in device_list %}
+			<li><a href="{% url 'iot:devicedetail' device.id %}">{{ device.name }} ({{ device.device_type.name }} device)</a></li>
+		{% endfor %}
+		</ul>
+	</div>
+{% else %}
+	<p>No Devices Exist.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,1122 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_set",
+				"_setFallEvent"
+			],
+			[
+				"device",
+				"device_type"
+			],
+			[
+				"Device",
+				"DeviceDetailView"
+			],
+			[
+				"render",
+				"renderFriendRequestsList"
+			],
+			[
+				"set",
+				"setFriendRequestsList"
+			],
+			[
+				"tmp_friend",
+				"tmp_friend_requests"
+			],
+			[
+				"friends_",
+				"friend_requests"
+			],
+			[
+				"tmp",
+				"tmp_friends"
+			],
+			[
+				"friendship",
+				"friendship_id"
+			],
+			[
+				"vir",
+				"virtualenvs"
+			],
+			[
+				"frein",
+				"friendship_id"
+			],
+			[
+				"picture",
+				"picture_turn_data"
+			],
+			[
+				"files",
+				"files_dir"
+			],
+			[
+				"str_rep",
+				"substr_replace()"
+			],
+			[
+				"tilte",
+				"titleElement"
+			],
+			[
+				"PageHits",
+				"PageHitsFilterForm"
+			],
+			[
+				"from",
+				"from_dte"
+			],
+			[
+				"getFi",
+				"getFilters"
+			],
+			[
+				"report_cell",
+				"report_cell_label"
+			],
+			[
+				"create",
+				"createElementNS"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"row",
+				"rowToXLS"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array",
+				"array	$… = array (…)"
+			],
+			[
+				"array_un",
+				"array_unshift()"
+			],
+			[
+				"extra",
+				"extra_detail"
+			],
+			[
+				"getFilter",
+				"getFilterForm"
+			],
+			[
+				"voter",
+				"votermanagement_getVoterRegistrationByVID"
+			],
+			[
+				"votermanagement_",
+				"votermanagement_getVoterByUID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/views.py",
+			"settings":
+			{
+				"buffer_size": 2112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 2132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/admin.py",
+			"settings":
+			{
+				"buffer_size": 952,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daemons/digital_daemon.py",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "libraries/gpiohelper.py",
+			"settings":
+			{
+				"buffer_size": 1141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daemon_runner.py",
+			"settings":
+			{
+				"buffer_size": 1030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daemons/base_daemon.py",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "daemons/gpio_daemon.py",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/models.py",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/urls.py",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"SublimeGit: Documentation"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"g",
+				"Git: Diff"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"graph",
+				"Git: Graph All"
+			],
+			[
+				"remot",
+				"Git: Add Remote"
+			],
+			[
+				"a",
+				"Package Control: Add Channel"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"GitStatus: Changed files"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"sni",
+				"Snippet: node_invoke"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"z",
+				"Snippet: hook_openid_normalization_method_info_alter"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"close",
+				"Package Control: List Packages"
+			],
+			[
+				"snippet",
+				"Snippet: blade-foreach"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ss bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss drupal",
+				"Set Syntax: Drupal Info File"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 349.0
+	},
+	"console":
+	{
+		"height": 109.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/libraries",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer"
+	],
+	"file_history":
+	[
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemon_runner.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/urls.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons/base_daemon.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons/gpio_daemon.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons/digital_daemon.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/management/commands/run_daemons.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/views.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/tests.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/urls.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite/settings.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite_nginx.conf",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite_nginx.conf",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/uwsgi.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/models.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/admin.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/models.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/views.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons/polling_daemon.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/wiringPi/test.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/daemons/__init__.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite/urls.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/uwsgi_params.conf",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite/wsgi.py",
+		"/var/www/us.html",
+		"/media/eric/OS1/Program Files (x86)/Revenge of the Titans/doc/jvm_README.txt",
+		"/home/eric/Downloads/uplink.stl",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/templates/rpi/device_detail.html",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/admin.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/libraries/gpiohelper.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/templates/rpi/index.html",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/libraries/__init__.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/management/__init__.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/libraries/sensorlib.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/rpi/management/commands/__init__.py",
+		"/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/wiringPi/test.py.save",
+		"/home/eric/Desktop/win_tpwf/tpwf/www/application/logs/log-2014-12-07.php",
+		"/home/eric/Desktop/win_tpwf/tpwf/puphpet/puppet/hiera.yaml",
+		"/home/eric/Desktop/win_tpwf/tpwf/puphpet/puppet/manifest.pp",
+		"/home/eric/Desktop/win_tpwf/tpwf/puphpet/config.yaml",
+		"/home/eric/btrfsgui/manifests/default.pp",
+		"/home/eric/btrfsgui/devel/commandrunner.py",
+		"/home/eric/btrfsgui/Vagrantfile",
+		"/home/eric/btrfsgui/devel/main.py",
+		"/home/eric/Desktop/win_tpwf/tpwf/puphpet/puppet/Puppetfile",
+		"/home/eric/Desktop/win_tpwf/tpwf/www/application/logs/log-2014-02-13.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers/welcome.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/boot_opt.php",
+		"/home/eric/Development/TIL2/www/index.html",
+		"/media/eric/OS/Users/Eric/Development/TIL/www/index.html",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/dashboard_page.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/JS/draw.js",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/models/user.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/core/MY_Model.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/friends_page.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers/auth.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/autoload.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/helpers/data_helper.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/helpers/json_helper.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers/index.html",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers/games.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/js_css_min.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/js_css_includes.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/main.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers/friends.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/JS/fabric.js",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/JS/core.js",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/models/friend.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/addturn_page.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/boot.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/header.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/config.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/phpmyadmin/changelog.php",
+		"/home/eric/Desktop/django1/README.md",
+		"/home/eric/Desktop/django1/data/virtualenvs/django1.com/requirements.txt",
+		"/home/eric/Desktop/django1/manifests/site.pp",
+		"/home/eric/Desktop/django1/manifests/files/uwsgi/uwsgi.ini.erb",
+		"/home/eric/Desktop/django1/manifests/files/uwsgi/uwsgi.conf",
+		"/home/eric/Desktop/django1/manifests/files/virtualenv/requirements.txt",
+		"/home/eric/Desktop/django1/manifests/files/nginx/nginx.conf.erb",
+		"/home/eric/Desktop/django1/data/public_html/django1.com/static/JS/test.html",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/draw.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/app.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/index.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/database.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/constants.php",
+		"/home/eric/Desktop/sublime_projects/tpwf_halfanaf.sublime-project",
+		"/home/eric/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/eric/.config/sublime-text-3/Packages/Git GUI Clients/Git GUI Clients.sublime-settings",
+		"/home/eric/Desktop/test/www/dev/sites/all/themes/liveballot_theme/templates/page.tpl.php",
+		"/home/eric/Desktop/test/www/dev/sites/default/settings.local.php",
+		"/home/eric/Desktop/test/www/dev/.htaccess",
+		"/home/eric/Desktop/dell-inspiron-5521-backlight/etc/acpi/events/dell-backlight-up",
+		"/home/eric/Desktop/dell-inspiron-5521-backlight/etc/acpi/events/dell-backlight-down",
+		"/etc/acpi/brightup.sh",
+		"/etc/acpi/brightdown.sh",
+		"/etc/grub.d/10_linux",
+		"/usr/share/X11/xorg.conf.d/80-blacklight.conf",
+		"/home/eric/Desktop/dell-inspiron-5521-backlight/etc/acpi/brightdown.sh",
+		"/home/eric/Desktop/dell-inspiron-5521-backlight/etc/acpi/brightup.sh",
+		"/home/eric/Downloads/zNJDIg/puphpet/config.yaml",
+		"/home/eric/Dropbox/lbup_resources/lbup.sh",
+		"/home/eric/slgittest/test1",
+		"/home/eric/.config/sublime-text-3/Packages/User/Git GUI Clients.sublime-settings",
+		"/home/eric/Desktop/index.html",
+		"/home/eric/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/eric/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eric/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eric/Desktop/lbup.sh",
+		"/home/eric/Dropbox/lbup_resources/lbup/puphpet/config.yaml",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/views/JS/draw.js",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/config/facebook.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/libraries/tpwfauth.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/libraries/Authentication.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/libraries/fb/facebook.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/JS/fabric.min.js",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/helpers/paths_helper.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/libraries/Authorization.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/errors/error_404.php",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/logs/index.html",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/IMG/.htaccess",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/index.html",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/.htaccess",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/JS/.htaccess",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/Untitled Document",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/CSS/theme/um_theme.css",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/static/CSS/theme/um_theme.min.css",
+		"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/logs/log-2014-02-16.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 75.0,
+		"where_history":
+		[
+			"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application/controllers",
+			"<open folders>,<open files>",
+			"/run/user/1000/gvfs/sftp:host=halfanafro.com,user=halfanaf/home/halfanaf/www/tpwf/application",
+			"",
+			".description"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Poll",
+			"={})",
+			"25",
+			"23",
+			"php",
+			"GameStorage",
+			"unplayable",
+			"helpers",
+			"echo json_encode",
+			"json_encode",
+			"save",
+			"mousedown",
+			"listen",
+			"alert(",
+			"mousedown",
+			"__onMouseDown",
+			"mousedown",
+			"collapsed",
+			"prevent",
+			"$db['development']",
+			"$db['production']",
+			"ENVIRONMENT",
+			"dj",
+			"kk",
+			"curr",
+			"APP_NAME",
+			"session_start()",
+			"persistUser",
+			"../IMG",
+			"base_url(); ?>application/views/CSS/",
+			"base_url(); ?>application/views/JS/",
+			"application/views/",
+			"jqmobile",
+			"images/",
+			"images",
+			"draw.js",
+			".start",
+			"drawer.up",
+			"drawer.move",
+			"drawer.start",
+			"tool.up",
+			"tool.move",
+			"tool.start",
+			"prototype.up",
+			"prototype.move",
+			"prototype.start",
+			"report_table_label",
+			".description",
+			"find",
+			"Find",
+			"find",
+			"csv",
+			"download",
+			"getName(",
+			"getName",
+			"setName",
+			"3",
+			"getName(",
+			"setName(",
+			"build",
+			"buid",
+			"ballot_id",
+			"merge",
+			"rows",
+			"result",
+			"labels",
+			"$header",
+			"headers",
+			"details",
+			"theme(",
+			"download",
+			"$vid",
+			"get_voter_meta",
+			"set_voter_meta",
+			"form_state['input']",
+			"getVoterBy",
+			"voterhistory",
+			"pid",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Question",
+			"but2",
+			"but1",
+			"return jsonResponse",
+			"$db['production']",
+			"$voter_id",
+			"votermanagement_get_voter_meta",
+			"votermanagement_set_voter_meta",
+			"form_state['values']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "daemons/digital_daemon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "libraries/gpiohelper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "daemon_runner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "daemons/base_daemon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "daemons/gpio_daemon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite/unionizer/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 88.0
+	},
+	"output.git-init":
+	{
+		"height": 88.0
+	},
+	"output.git-remote":
+	{
+		"height": 88.0
+	},
+	"output.stino_log":
+	{
+		"height": 88.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"output.xdebug":
+	{
+		"height": 373.0
+	},
+	"project": "rpi.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"application/controllers/friends.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"config",
+				"application/config/config.php"
+			],
+			[
+				"b",
+				"~/Desktop/dell-inspiron-5521-backlight/etc/acpi/brightup.sh"
+			],
+			[
+				"un",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"42":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"43":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"44":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"52":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.486962190352,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.520866141732,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

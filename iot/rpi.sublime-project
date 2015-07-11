@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/run/user/1000/gvfs/sftp:host=pi,user=pi/home/pi/mysite"
+		}
+	]
+}
