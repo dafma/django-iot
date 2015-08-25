@@ -35,6 +35,17 @@ class DeviceDataViewSet(viewsets.ModelViewSet):
     queryset = DeviceData.objects.all()
     serializer_class = DeviceDataSerializer
 
+    def get_queryset(self):
+        """
+        Optionally restricts the returned purchases to a given user,
+        by filtering against a `username` query parameter in the URL.
+        """
+        queryset = DeviceData.objects.all()
+        pk = self.request.query_params.get('pk', None)
+        if pk is not None:
+            queryset = queryset.filter(device__id=pk)
+        return queryset
+
 
 
 iot_router = routers.DefaultRouter()
@@ -42,4 +53,5 @@ iot_router.register(r'device-types', DeviceTypeViewSet)
 iot_router.register(r'devices', DeviceViewSet)
 #figure out how to filter down to specific device, and
 #better, variable  (might have to use fn based views?)
-iot_router.register(r'device/data', DeviceDataViewSet)
+iot_router.register(r'device-data', DeviceDataViewSet)
+# iot_router.register(r'device/update', )
